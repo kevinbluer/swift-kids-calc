@@ -142,8 +142,10 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GLh-LE-wQ4">
-                                <rect key="frame" x="36" y="376" width="37" height="30"/>
-                                <state key="normal" title="Clear">
+                                <rect key="frame" x="36" y="376" width="40" height="30"/>
+                                <color key="backgroundColor" red="0.39607846740000002" green="0.070588238540000001" blue="0.59215688710000003" alpha="1" colorSpace="deviceRGB"/>
+                                <state key="normal" title="C">
+                                    <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
